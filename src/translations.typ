@@ -60,6 +60,16 @@
     "example": "Пример",
     "definition": "Определение",
     "proof": "Доказательство"
+  ),
+    "zh": (
+    "theorem": "定理",
+    "lemma": "引理",
+    "corollary": "推论",
+    "remark": "注",
+    "proposition": "命题",
+    "example": "例",
+    "definition": "定义",
+    "proof": "证明"
   )
 )
 
